@@ -1,0 +1,10 @@
+Nokia-MIDlet-Splash-Screen-Image: /Splash.png
+MIDlet-1: Parsboard,/Icon.png,com.mmdmine.board.Piboard
+MIDlet-Jar-URL: Piboard.jar
+MIDlet-Icon: /Icon.png
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 0.0.4
+MIDlet-Name: PiBoard
+MIDlet-Vendor: Mohammad Amin Mollazadeh
+MicroEdition-Profile: MIDP-2.1
+Nokia-MIDlet-theme-modifier: dark
